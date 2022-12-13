@@ -36,3 +36,4 @@ Check [DataPreprocessing.ipynb](https://github.com/guowenbin90/ProstateSegmentat
 6. Two dictionaries based on the SOP Instance UID. One is the image dictionary (X), and another is the mask dictionary (Y). These are the preprocessing of the images and annotations for the model training. X is the feature, and Y is the target value in the training and prediction.
 
 ## Acknowledgement
+Prostate Cancer Foundation
