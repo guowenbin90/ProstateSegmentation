@@ -37,3 +37,7 @@ Check [DataPreprocessing.ipynb](https://github.com/guowenbin90/ProstateSegmentat
 
 ## Acknowledgement
 Prostate Cancer Foundation
+
+## Cite this paper
+Guo, Wenbin, Wayne Brisbane, Rani Ashouri, Brianna Nguyen, and Angelos Barmpoutis. "Prostate Capsule Segmentation in Micro-Ultrasound Images Using Deep Neural Networks." 
+In 2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI), pp. 1-5. IEEE, 2023. DOI: [10.1109/ISBI53787.2023.10230652](https://doi.org/10.1109/ISBI53787.2023.10230652)
