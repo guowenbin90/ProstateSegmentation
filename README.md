@@ -44,6 +44,11 @@ Check code file [DataPreprocessing.ipynb](https://github.com/guowenbin90/Prostat
 4. Rename files using UID. The (0008, 0018) SOP Instance UID in the metadata likes this. <img src="https://github.com/guowenbin90/ProstateSegmentation/blob/main/images/SOP%20Instance%20UID.JPG">
 5. Save png files to the folders <img src="https://github.com/guowenbin90/ProstateSegmentation/blob/main/images/Exported%20images%20and%20masks.JPG">
 6. Two dictionaries based on the SOP Instance UID. One is the image dictionary (X), and another is the mask dictionary (Y). These are the preprocessing of the images and annotations for the model training. X is the feature, and Y is the target value in the training and prediction.
+### Dataset training using modified U-Net architecture
+Check code file [PCa-UNet-dataset-training.ipynb](https://github.com/guowenbin90/ProstateSegmentation/blob/main/PCa-UNet-dataset-training.ipynb)
+IoU in the three different sets            |  10-fold cross-validation
+:-----------------------------------------:|:-------------------------:
+![](https://github.com/guowenbin90/ProstateSegmentation/blob/main/images/IoU.png)  |  ![](https://github.com/guowenbin90/ProstateSegmentation/blob/main/images/CrossValidation.png)
 
 ## Acknowledgement<a name="Acknowledgements"></a>
 Prostate Cancer Foundation
