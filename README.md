@@ -39,5 +39,7 @@ Check [DataPreprocessing.ipynb](https://github.com/guowenbin90/ProstateSegmentat
 Prostate Cancer Foundation
 
 ## Cite this paper
+[Full PDF file](https://research.dwi.ufl.edu/page/prostate-capsule-segmentation-in-micro-ultrasound-images-using-deep-neural-networks/)
+
 Guo, Wenbin, Wayne Brisbane, Rani Ashouri, Brianna Nguyen, and Angelos Barmpoutis. "Prostate Capsule Segmentation in Micro-Ultrasound Images Using Deep Neural Networks." 
 In 2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI), pp. 1-5. IEEE, 2023. DOI: [10.1109/ISBI53787.2023.10230652](https://doi.org/10.1109/ISBI53787.2023.10230652)
